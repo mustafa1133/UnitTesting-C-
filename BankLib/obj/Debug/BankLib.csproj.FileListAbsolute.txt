@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\bin\Debug\BankLib.dll
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\bin\Debug\BankLib.pdb
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\obj\Debug\BankLib.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\obj\Debug\BankLib.dll
+C:\Users\user\Desktop\Centennial\Comp123\book practice\BankLib\BankLib\obj\Debug\BankLib.pdb
